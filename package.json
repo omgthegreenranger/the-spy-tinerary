@@ -1,0 +1,22 @@
+{
+  "name": "the-spy-tinerary",
+  "version": "1.0.0",
+  "description": "## Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgthegreenranger/the-spy-tinerary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omgthegreenranger/the-spy-tinerary/issues"
+  },
+  "homepage": "https://github.com/omgthegreenranger/the-spy-tinerary#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
